@@ -19,9 +19,9 @@ body {
   list-style: none;
 }
 .header__logo {
-display: block;
-width: 148px;
-height: 105px;
+  display: block;
+  width: 148px;
+  height: 105px;
 }
 .header__logo-image {
   width: 100%;  
