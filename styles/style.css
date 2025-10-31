@@ -24,7 +24,7 @@ body {
   height: 105px;
 }
 .header__logo-image {
-  width: 100%;  
+  width: 100%;
   height: 100%;
   object-fit: contain;
 }
@@ -50,15 +50,15 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   padding: 145px 49px 30px 49px;
-  color:#fff;
+  color: #fff;
 }
 .cover__title {
-  position:relative;
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 0 0 105px 0;
-  color: #FFF;
+  color: #fff;
   font-family: Raleway;
   font-size: 100px;
   font-style: normal;
@@ -90,7 +90,7 @@ body {
 .cover__description {
   z-index: 1;
   display: flex;
-  align-items:center;
+  align-items: center;
   justify-content: flex-start;
   gap: 107px;
   font-size: 22px;
@@ -104,10 +104,10 @@ body {
   width: 256px;
   height: 51px;
   background: transparent;
-  border: 1px solid #fff; 
+  border: 1px solid #fff;
   color: #fff;
   text-transform: uppercase;
-  align-items:center;
+  align-items: center;
 }
 .lots {
   margin: 179px auto 146px;
@@ -124,12 +124,12 @@ body {
   padding-left: 40px;
 }
 .lots__card-list {
-  list-style: none;  
-  margin: 0;          
+  list-style: none;
+  margin: 0;
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 25px;             
+  gap: 25px;
 }
 .lots__card-list-item {
   flex: 0 0 334px;
@@ -232,7 +232,7 @@ body {
   justify-content: center;
   padding-top: 96px;
   padding-right: 24px;
-}  
+}
 .about__title {
   margin: 0 0 100px 0;
   font-size: 40px;
@@ -246,7 +246,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   font-family: Raleway;
-  color:#000
+  color: #000;
 }
 .footer {
   max-width: 1100px;
@@ -273,7 +273,6 @@ body {
 .footer__menu {
   justify-self: center;
   text-align: center;
-  
 }
 .footer__menu-list {
   list-style: none;
@@ -283,7 +282,7 @@ body {
   padding: 0;
 }
 .footer__menu-link_active {
-  text-decoration: none; 
+  text-decoration: none;
 }
 .footer__menu-link {
   font-size: 18px;
@@ -296,6 +295,6 @@ body {
 }
 .footer__social-link {
   display: block;
-  width: 48px;;
+  width: 48px;
   height: 48px;
 }
